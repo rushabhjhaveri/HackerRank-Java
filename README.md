@@ -1,2 +1,2 @@
 # HackerRank-Java
-Solutions to the Java track on HackerRank.
+My solutions to the Java track on HackerRank.
